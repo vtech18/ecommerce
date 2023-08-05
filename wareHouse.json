@@ -1,0 +1,122 @@
+{
+  "products": [
+    {
+      "id": "Redmi12p",
+      "name": "Red mi note 12 pro",
+      "price": "250000",
+      "description": "The brand new redmi note 12 pro is the best and fast selling mobiles on the present quarter.\nThe features:\nRam:12gb\nProcessor: snapdragon 870\nDisplay: sAmoled",
+      "url": "https://m.media-amazon.com/images/I/61ZWfbRjP0L._SY741_.jpg",
+      "category": "category"
+    },
+    {
+      "id": "_RYqLeA",
+      "name": "",
+      "price": "",
+      "description": "\n\n",
+      "url": "",
+      "category": "category"
+    },
+    {
+      "id": "Rd12p",
+      "name": "Red mi note 12",
+      "price": "30000",
+      "description": "\nThis is very good loking red mi note 12 pro the fastest selling best smart phone for the youth \nFeatures:\nRam:12gb,\nInternal:256 gb,\nProcesser: snapdragon 870\nCam:64Mp\n",
+      "url": "",
+      "category": "category"
+    },
+    {
+      "id": "Rd121",
+      "name": "Red mi note 12",
+      "price": "30000",
+      "description": "\nThis is very good loking red mi note 12 pro the fastest selling best smart phone for the youth \nFeatures:\nRam:12gb,\nInternal:256 gb,\nProcesser: snapdragon 870\nCam:64Mp\n",
+      "url": "https://www instagram.com",
+      "category": "category"
+    },
+    {
+      "id": "Abd1",
+      "name": "Bajanab",
+      "price": "20464",
+      "description": "Najaiajababakall",
+      "url": "najabakalm.xkzm",
+      "category": ""
+    },
+    {
+      "id": "Anakan",
+      "name": "Ajakw",
+      "price": "97.76",
+      "description": "Bajaja",
+      "url": "jajabab",
+      "category": "grocerry"
+    }
+  ],
+  "users": [
+    {
+      "mail": "krishna@gmail.com",
+      "password": "Krishna@123",
+      "id": 1,
+      "mobile": "75486464884",
+      "name": "Krishna"
+    },
+    {
+      "name": "Kiran1",
+      "mail": "kiran@gmail.com",
+      "mobile": "9133527489",
+      "id": 3,
+      "place": ""
+    },
+    {
+      "mail": "vfxjithu@gmail.com",
+      "password": "ALLURU",
+      "id": 4,
+      "mobile": "8179293774",
+      "name": "Jithu",
+      "place": "tirupathi"
+    },
+    {
+      "mail": "vfxjithu@gmail.com",
+      "password": "ALLURU",
+      "id": 5,
+      "mobile": "8179293774",
+      "name": "Jithu",
+      "place": "tirupathi"
+    },
+    {
+      "mail": "vfxjithu@gmail.com",
+      "password": "ALLURU",
+      "id": 6,
+      "mobile": "8179293774",
+      "name": "Jithu",
+      "place": "tirupathi"
+    },
+    {
+      "mail": "vfxjithu@gmail.com",
+      "password": "ALLURU",
+      "id": 7,
+      "mobile": "8179293774",
+      "name": "Jithu",
+      "place": "tirupathi"
+    }
+  ],
+  "cart": [],
+  "wishlist": [],
+  "reviews": [
+    {
+      "productID": 11,
+      "userID": 2,
+      "userName": "Venu",
+      "rating": 4.2,
+      "review": "This product is very useful for those who want to add extra memory ..if you had enough ROM I would not recommend this bcz it will waste all your money.",
+      "userLocation": "Tirupati",
+      "id": 5
+    },
+    {
+      "productID": 11,
+      "userID": 3,
+      "userName": "Kiran1",
+      "rating": 4,
+      "review": "This product is simply amazing and can be given an rating of 4/5. Because I simply feel that this product price is little bit high ",
+      "userLocation": "Durgi",
+      "id": 6
+    }
+  ]
+}
